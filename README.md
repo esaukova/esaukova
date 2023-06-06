@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am QA/QC tester with a passion for Python 
+I am QA/QC tester with a passion for Python and Java
 
 
 ## 🌐 Socials:
