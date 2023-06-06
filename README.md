@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Ekaterina Saukova:
 I am QA/QC tester with a passion for Python and Java
 
 
