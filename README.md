@@ -14,11 +14,15 @@ telegram https://t.me/esaukova88
 
 # Портфолио
 
--  [Дипломный проект по профессии «Тестировщик»]()
+-  [Дипломный проект по профессии «Тестировщик»](https://github.com/esaukova/AQA_Diploma_ESaukova)
   
     [Задание](https://github.com/netology-code/qa-diploma/blob/master/README.md)
- 
-   В процессе
+   - составила [тест-план](https://github.com/esaukova/AQA_Diploma_ESaukova/blob/main/Documentations/Plan.md) автоматизированного тестирования;
+   - провела автоматизацию [16 сценариев](https://github.com/esaukova/AQA_Diploma_ESaukova/blob/main/Documentations/Plan.md#сценарии-автоматизации-api-и-ответов-от-data-base-mysqlpostgresql) для 
+     тестирования API;
+   - провела автоматизацию [45 сценариев](https://github.com/esaukova/AQA_Diploma_ESaukova/blob/main/Documentations/Plan.md#сценарии-автоматизации-ui) для тестирования UI;
+   - составила [отчет о проведенном тестирование](https://github.com/esaukova/AQA_Diploma_ESaukova/blob/main/Documentations/Report.md);
+   - завела [32 баг-репорта](https://github.com/esaukova/AQA_Diploma_ESaukova/issues)
    
 - [x] [Командный проект по курсу "Java для тестировщиков"](https://github.com/esaukova/team-project-bank)
 
