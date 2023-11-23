@@ -14,7 +14,7 @@ telegram https://t.me/esaukova88
 
 # Портфолио
 
--  [Дипломный проект по профессии «Тестировщик»](https://github.com/esaukova/AQA_Diploma_ESaukova)
+-  [x] [Дипломный проект по профессии «Тестировщик»](https://github.com/esaukova/AQA_Diploma_ESaukova)
   
     [Задание](https://github.com/netology-code/qa-diploma/blob/master/README.md)
    - составила [тест-план](https://github.com/esaukova/AQA_Diploma_ESaukova/blob/main/Documentations/Plan.md) автоматизированного тестирования;
