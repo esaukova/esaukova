@@ -48,6 +48,7 @@ telegram https://t.me/esaukova88
 - [Автоматизированное тестирование](https://github.com/esaukova/esaukova/blob/main/docs/Автоматизированное%20тестирование.pdf)
 - [Основы SQL](https://github.com/esaukova/esaukova/blob/main/docs/Основы%20SQL.pdf)
 - [Процедурное программирование на Python](https://github.com/esaukova/esaukova/blob/main/docs/Процедурное%20программирование%20на%20Python.jpg)
+- [ТестировщикПО](https://github.com/esaukova/esaukova/blob/main/docs/Тестировщик%20ПО.pdf)
 
 
 ### ✍️ Случайная цитата 
